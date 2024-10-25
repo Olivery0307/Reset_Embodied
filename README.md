@@ -25,8 +25,8 @@ Generate Slides:
 Open make_slide.ipynb and run the script.
 Each product will be automatically added to a new slide in the template, with ratings populated in placeholders and metrics visualized in graphs.
 Example Output: 
-![Sample Product Scorecard](preview/English.png)
-![Sample Product Scorecard](preview/Chinese.png)
+![Sample English Product Scorecard](preview/English.png)
+![Sample Chinese Product Scorecard](preview/Chinese.png)
 
 For more information on RESET Embodied project, check https://reset.build/standard/embodied
 
