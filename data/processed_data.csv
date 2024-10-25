@@ -1,0 +1,45 @@
+RESET ID,Brand or Association,Series,CO2(kg),RESET SCORE,CO2(ml),RC,R,SF,RLF,Known,VOC,TOTAL RESET SCORE,Better than Average,Rank,ImageName
+WellBAC Comfort Print (Impressions),Milliken,Brushed By Tradition,5.175,100.00%,14.2,60%,100%,80%,100%,100%,100%,82.00%,69.40%,1st,impressions
+WellBAC Comfort Print (Drift),Milliken,Air Born,5.432,100.00%,15.9,57.70%,100%,80%,100%,100%,100%,81.60%,68.60%,2nd,drift
+WellBAC Function Print (Reveal),Milliken,Revelation,5.612,100.00%,15.4,50.40%,100%,80%,100%,100%,100%,80.40%,66.10%,3rd,reveal
+WellBAC Comfort SDN Recycled Yarn (Metallic Joinery),Milliken,Fine Detail,3.375,100.00%,9.26,35%,100%,80%,100%,100%,100%,77.80%,60.80%,4th,metallicjoinery
+WellBAC Comfort Plus Print (Effect),Milliken,Consequence 2.0,4.747,100.00%,14.8,35%,100%,80%,100%,100%,100%,77.80%,60.80%,4th,effect
+WellBAC Comfort Plus Print (Dissident),Milliken,Dissident & Fringe ,4.747,100.00%,14.8,35%,100%,80%,100%,100%,100%,77.80%,60.80%,4th,dissident
+WellBAC Comfort SDN Recycled Yarn (Alloy),Milliken,Heavy Meta,3.375,100.00%,9.26,30%,100%,80%,100%,100%,100%,77.00%,59.00%,5th,alloy
+WellBAC Comfort SDN Recycled Yarn (Burned),Milliken,Surface Study,3.375,100.00%,9.26,30%,100%,80%,100%,100%,100%,77.00%,59.00%,5th,burned
+WellBAC Comfort Plus Print (Laid Bare),Milliken,Comfortable Concrete,4.747,100.00%,14.8,25%,100%,80%,100%,100%,100%,76.20%,57.30%,6th,laidbare
+WellBAC Comfort Plus Print (Invisible Field),Milliken,Momentum 2.0 ,4.747,100.00%,14.8,25%,100%,80%,100%,100%,100%,76.20%,57.30%,6th,invisiblefield
+WellBAC Comfort Print (Isograd),Milliken,Nordic Stories ,5.175,100.00%,14.2,25%,100%,80%,100%,100%,100%,76.20%,57.30%,6th,isograd
+WellBAC Comfort Print (Distortion),Milliken,Major Frequency One ,5.175,100.00%,14.2,25%,100%,80%,100%,100%,100%,76.20%,57.30%,6th,distortion
+WellBAC Function SDN (Formwork),Milliken,Formwork 2.0,5.432,100.00%,15.9,25%,100%,80%,100%,100%,100%,76.20%,57.30%,6th,formwork
+WellBAC Comfort Print (Landscape),Milliken,Coastline,5.175,100.00%,14.2,25%,100%,80%,100%,100%,100%,76.20%,57.30%,6th,landscape
+WellBAC Comfort Print (Double Plus),Milliken,Play Angle,5.175,100.00%,14.2,25%,100%,80%,100%,100%,100%,76.20%,57.30%,6th,doubleplus
+WellBAC Function Print (Renovate),Milliken,Dissident & Fringe 2.0,5.175,100.00%,14.2,20%,100%,80%,100%,100%,100%,75.30%,55.60%,7th,renovate
+WellBAC Comfort Print (Navigator),Milliken,Topography 2.0,5.175,100.00%,14.2,20%,100%,80%,100%,100%,100%,75.30%,55.60%,7th,navigator
+WellBAC Comfort Print (Absolute Color),Milliken,Passage,5.175,100.00%,14.2,20%,100%,80%,100%,100%,100%,75.30%,55.60%,7th,absolutecolor
+WellBAC Comfort Print (Forty-Five Degrees),Milliken,Compass,5.175,100.00%,14.2,20%,100%,80%,100%,100%,100%,75.30%,55.60%,7th,forty-fivedegrees
+WellBAC Comfort Print (Accent North East),Milliken,Boundaries,5.175,100.00%,14.2,20%,100%,80%,100%,100%,100%,75.30%,55.60%,7th,accentnortheast
+WellBAC Comfort Print (Field),Milliken,Living Facades,5.175,100.00%,14.2,20%,100%,80%,100%,100%,100%,75.30%,55.60%,7th,field
+WellBAC Comfort Print (Backbeat),Milliken,Remix 3.0,5.175,100.00%,14.2,20%,100%,80%,100%,100%,100%,75.30%,55.60%,7th,backbeat
+WellBAC Comfort Print (Bedrock),Milliken,Live Stream,5.175,100.00%,14.2,20%,100%,80%,100%,100%,100%,75.30%,55.60%,7th,bedrock
+WellBAC Comfort Print (Calm),Milliken,Divided Glass,5.175,100.00%,14.2,20%,100%,80%,100%,100%,100%,75.30%,55.60%,7th,calm
+WellBAC Comfort Print (Construct),Milliken,Architecturally Sound 2.0,5.175,100.00%,14.2,20%,100%,80%,100%,100%,100%,75.30%,55.60%,7th,construct
+WellBAC Comfort Print (Patina),Milliken,Patina,5.175,100.00%,14.2,20%,100%,80%,100%,100%,100%,75.30%,55.60%,7th,patina
+WellBAC Comfort Print (Data Flow),Milliken,Dot Com 2.0,5.175,100.00%,14.2,20%,100%,80%,100%,100%,100%,75.30%,55.60%,7th,dataflow
+WellBAC Comfort Print (Draftworks),Milliken,Wicker Contract 2.0,5.175,100.00%,14.2,20%,100%,80%,100%,100%,100%,75.30%,55.60%,7th,draftworks
+WellBAC Comfort Print (Drawing in Ink),Milliken,Naturally Drawn,5.175,100.00%,14.2,20%,100%,80%,100%,100%,100%,75.30%,55.60%,7th,drawinginink
+WellBAC Comfort Print (EC1),Milliken,City Proper 2.0 ,5.175,100.00%,14.2,20%,100%,80%,100%,100%,100%,75.30%,55.60%,7th,ec1
+WellBAC Comfort Print (Corner),Milliken,Pentomino 2.0,5.175,100.00%,14.2,20%,100%,80%,100%,100%,100%,75.30%,55.60%,7th,corner
+WellBAC Comfort Print (Explorer),Milliken,Topography 2.0,5.175,100.00%,14.2,20%,100%,80%,100%,100%,100%,75.30%,55.60%,7th,explorer
+WellBAC Function Print (Shadowbox),Milliken,Out Of The Shadows 2.0,5.539,100.00%,15.2,10%,100%,80%,100%,100%,100%,73.70%,52.20%,8th,shadowbox
+WellBAC Function Print (Laylines),Milliken,Laylines,5.539,100.00%,15.2,10%,100%,80%,100%,100%,100%,73.70%,52.20%,8th,laylines
+WellBAC Function Print (Cloth),Milliken,Textus 2.0,5.539,100.00%,15.2,10%,100%,80%,100%,100%,100%,73.70%,52.20%,8th,cloth
+WellBAC Function Print (Breeze),Milliken,Ripple Effect,5.539,100.00%,15.2,10%,100%,80%,100%,100%,100%,73.70%,52.20%,8th,breeze
+WellBAC Function SDN (Point 3),Milliken,Common Thread 2.0 ,5.432,100.00%,15.9,10%,100%,80%,100%,100%,100%,73.70%,52.20%,8th,point3
+WellBAC Function SDN (Forest Rain),Milliken,Nature Supply ,5.432,100.00%,15.9,10%,100%,80%,100%,100%,100%,73.70%,52.20%,8th,forestrain
+WellBAC Function SDN (Fades),Milliken,Hues,5.432,100.00%,15.9,10%,100%,80%,100%,100%,100%,73.70%,52.20%,8th,fades
+WellBAC Function SDN (Concrete),Milliken,Building Blocks ,5.432,100.00%,15.9,10%,100%,80%,100%,100%,100%,73.70%,52.20%,8th,concrete
+WellBAC Function SDN (Classic Dark),Milliken,Design Designations ,5.432,100.00%,15.9,10%,100%,80%,100%,100%,100%,73.70%,52.20%,8th,classicdark
+WellBAC Function SDN Recycled Yarn (Elements),Milliken,Cornerstone,3.177,100.00%,9.3,10%,100%,80%,100%,100%,100%,73.70%,52.20%,8th,elements
+WellBAC Function SDN (In Line),Milliken,Retrofit,5.432,100.00%,15.9,10%,100%,80%,100%,100%,100%,73.70%,52.20%,8th,inline
+WellBAC Function SDN (Aida),Milliken,Variations 2.0,5.432,100.00%,15.9,10%,100%,80%,100%,100%,100%,73.70%,52.20%,8th,aida
