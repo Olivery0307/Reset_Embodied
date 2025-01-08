@@ -22,7 +22,7 @@ Execute data_processing.ipynb to prepare the data for slide generation.
 Generate Slides:
 
 Open make_slide.ipynb and run the script.
-Each product will be automatically added to a new slide in the template, with ratings populated in placeholders and metrics visualized in graphs.\
+Each product will be automatically added to a new slide in the template, with ratings populated in placeholders and metrics visualized in graphs.
 
 
 Example Output: 
