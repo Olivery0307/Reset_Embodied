@@ -12,15 +12,12 @@ Using python-pptx and a pre-designed PowerPoint template, we automatically popul
 Run make_slide.ipynb to automatically generate one slide per product, each containing its metrics and ratings.
 
 ## Usage
-Prepare the Data:
-
+### Prepare the Data:
 Format the raw data file so each row corresponds to a product with columns for each metric.
 Place the formatted data file into the appropriate directory.
-Run Data Processing:
-
+### Run Data Processing:
 Execute data_processing.ipynb to prepare the data for slide generation.
-Generate Slides:
-
+### Generate Slides:
 Open make_slide.ipynb and run the script.
 Each product will be automatically added to a new slide in the template, with ratings populated in placeholders and metrics visualized in graphs.
 
