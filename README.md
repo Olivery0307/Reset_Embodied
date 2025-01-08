@@ -10,7 +10,6 @@ The data_processing.ipynb script transforms raw data into a structured format, w
 2. Automated Scorecard Creation
 Using python-pptx and a pre-designed PowerPoint template, we automatically populate placeholders and generate relevant graphs for each product.
 Run make_slide.ipynb to automatically generate one slide per product, each containing its metrics and ratings.
-Example Output: (Insert an example slide image here)
 
 ## Usage
 Prepare the Data:
@@ -23,7 +22,9 @@ Execute data_processing.ipynb to prepare the data for slide generation.
 Generate Slides:
 
 Open make_slide.ipynb and run the script.
-Each product will be automatically added to a new slide in the template, with ratings populated in placeholders and metrics visualized in graphs.
+Each product will be automatically added to a new slide in the template, with ratings populated in placeholders and metrics visualized in graphs.\
+
+
 Example Output: 
 ![Sample English Product Scorecard](preview/English.png)
 ![Sample Chinese Product Scorecard](preview/Chinese.png)
