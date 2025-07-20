@@ -1,4 +1,4 @@
-# RESET Embodied Project
+# RESET Embodied Score Automation
 ## Project Overview
 The RESET Embodied Project by GIGA.Reset aims to track the carbon footprint of a given product across three aspects: carbon, circularity, and health. GIGA assigns ratings to clients' products, projects, or offices based on different metrics in each category, summarizing these ratings in individual scorecards for each product. Previously, creating these scorecards involved manually inputting data into slides—an inefficient process given the consistent format of the scorecards.
 
